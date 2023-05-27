@@ -1,9 +1,8 @@
 # 💫 About Me:
-Hello, I'm Danie, a Argentinian games and web developer. <br>
-I'm working on a 2d bullet hell game in Unity. <br>
-I'm looking to collaborate with small indie studios. <br>
+Hello, I’m Dani, an Argentinian web developer. I love work in front-end area using
+React and Typescript, and I love type all my code. I’m also interested in game development
+area.
 
-## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/lajbel) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/lajbel) 
 
 # 💻 Tech Stack:
