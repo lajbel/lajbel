@@ -1,4 +1,4 @@
-# 💫 About Me:
+# ☕ About Me:
 Hello, I’m Dani, an Argentinian web developer. I love work in front-end area using
 React and Typescript, and I love type all my code. I’m also interested in game development
 area.
