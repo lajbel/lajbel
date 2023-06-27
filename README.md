@@ -8,9 +8,10 @@ area.
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
 # 📊 GitHub Stats:
 <details><summary>Show GitHub stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lajbel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lajbel&theme=gotham&hide_border=false" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lajbel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lajbel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" /> <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lajbel&theme=gotham&hide_border=false" /> <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lajbel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /> <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lajbel&theme=gotham&hide_border=false" />
 </details>
 
 ### 🔝 Top Contributed Repo
