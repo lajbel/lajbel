@@ -1,9 +1,3 @@
-# ☕ About Me:
-Hello, I’m Dani, an Argentinian web developer. I love work in front-end area using
-React and Typescript, and I love type all my code. I’m also interested in game development
-area.
-
-# 💻 Tech Stack:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
 ![UNITY](https://img.shields.io/badge/Unity-%2320232a.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) 
@@ -11,18 +5,18 @@ area.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
 
-# 📊 GitHub Stats:
-<details><summary>Show GitHub stats</summary>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lajbel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true" /> <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lajbel&theme=gotham&hide_border=false" /> <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lajbel&theme=gotham&hide_border=false&include_all_commits=false&count_private=true&layout=compact" /> <br><br>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=lajbel&theme=gotham&hide_border=false" />
-</details>
+---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=lajbel&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="150" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=lajbel&amp;show_icons=true&amp;count_private=true&theme=gotham" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="150" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lajbel&amp;layout=compact&theme=gotham&hide_border=false&include_all_commits=true&count_private=true" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank"><img height="180" alt="A" src="https://github-readme-streak-stats.herokuapp.com/?user=lajbel&theme=gotham&hide_border=false" /></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=lajbel&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" target="_blank"><img alt="Trophies" src="https://github-profile-trophy.vercel.app/?username=lajbel&amp;rank=-%3F&amp;margin-w=4&amp;margin-h=4" /></a>
+</p>
+
+---
