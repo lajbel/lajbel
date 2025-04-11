@@ -7,7 +7,9 @@ Hi, I'm Daniel. I love Software Development and Open Source
 
 ## 🧭 Project Navigator
 
-- [KAPLAY](https://kaplayjs.com) - 2D Game library in JavaScript and TypeScript
+- [KAPLAY](github.com/kaplayjs/kaplay) - 2D Game library in JavaScript and TypeScript
+- [KAPLAYGROUND](https://play.kaplayjs.com) - React based online playground
+- [KAPLAY Docs](https://kaplayjs.com) - Documentation Website, API Docs generation with TypeScript API
 - [Newgrounds.js](https://newgrounds.lajbel.com) - Library for connecting to the Newgrounds API
 - [Juicy Beat](https://github.com/lajbel/juicy-beat) - Rhythm Game
 
