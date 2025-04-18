@@ -1,6 +1,6 @@
 ![image](https://github.com/user-attachments/assets/621c01a6-925d-4b10-a673-fd28204d21e3)
 
-[![committers.top badge](https://user-badge.committers.top/argentina/lajbel.svg)](https://user-badge.committers.top/argentina/#lajbel)
+[![committers.top badge](https://user-badge.committers.top/argentina/lajbel.svg)](https://user-badge.committers.top/argentina/lajbel)
 
 ## ☕ About Me:
 
